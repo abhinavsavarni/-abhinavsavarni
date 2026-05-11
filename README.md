@@ -65,6 +65,6 @@
 ---
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/abhinavsavarni/abhinavsavarni/blob/output/github-contribution-grid-snake.svg?raw=true)
+![snake gif](https://raw.githubusercontent.com/abhinavsavarni/abhinavsavarni/output/github-contribution-grid-snake.svg)
 
 ⭐ “Building skills one commit at a time.”
