@@ -57,21 +57,14 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavsavarni&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsavarni&layout=compact&theme=tokyonight)
----
-
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/abhinavsavarni
-- LinkedIn: Add your LinkedIn here
+- LinkedIn: https://www.linkedin.com/in/abhinav-savarni-567326264/
 
 ---
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/abhinavsavarni/abhinavsavarni/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/abhinavsavarni/abhinavsavarni/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ⭐ “Building skills one commit at a time.”
